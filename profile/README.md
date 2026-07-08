@@ -1,6 +1,6 @@
-# [NimiqMiniApp.org](https://nimiqminiapps.com/)
+# [NimiqMiniApps.com](https://nimiqminiapps.com/)
 
-[NimiqMiniApp.org](https://nimiqminiapps.com/) is a community-driven open source organization dedicated to making it easy to build, learn, and share Nimiq Mini Apps.
+[NimiqMiniApps.com](https://nimiqminiapps.com/) is a community-driven open source organization dedicated to making it easy to build, learn, and share Nimiq Mini Apps.
 
 Our goal is to grow the ecosystem by providing high-quality developer resources, reusable libraries, example applications, and production-ready templates.
 
